@@ -11,3 +11,6 @@ Each participant is free to use external tools (i.e. Weka, Knime, MatLab, etc.).
 
 Acknoledgments
 This task is part of the H2020 Shift2Rail project "RAILS: Roadmaps for A.I. Integration in the Rail Sector". We thanks prof. Valeria Vittorini and prof. Francesco Flammini for providing the data.
+
+
+https://www.kaggle.com/c/unina-machine-learning-2122-minicontest-n3/overview/description
