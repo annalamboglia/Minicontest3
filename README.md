@@ -1,3 +1,6 @@
+#Minicontest3
+
+
 Level Crossings are among the most critical railway assets, concerning both the risk of accidents and their maintainability, due to intersections with promiscuous traffic and difficulties in remotely monitoring their health status. Failures can be originated from several factors, including malfunctions in the bar mechanisms and warning devices, such as light signals and bells.
 
 ![Michigan Railroad crossing](https://upload.wikimedia.org/wikipedia/commons/0/07/Trout_Lake%2C_Michigan_Railroad_crossing.JPG)
