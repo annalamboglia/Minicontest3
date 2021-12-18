@@ -1,6 +1,6 @@
 Level Crossings are among the most critical railway assets, concerning both the risk of accidents and their maintainability, due to intersections with promiscuous traffic and difficulties in remotely monitoring their health status. Failures can be originated from several factors, including malfunctions in the bar mechanisms and warning devices, such as light signals and bells.
 
-
+![Michigan_Railroad_crossing](https://upload.wikimedia.org/wikipedia/commons/0/07/Trout_Lake%2C_Michigan_Railroad_crossing.JPG)
 
 Among all, the detection of the level crossing alarm bell is an important task, as it represents one of the most effective notifications for vehicles' drivers of an upcoming train on the track. Unfortunately, its detection is not straightforward, due to i) the presence of other similar sounds (e.g. alarms), ii) the traffic noise and iii) the great variability of alarm bell sounds. The aim of the third Machine Learning Mini-Contest (MC3) for the academic year 2021/2022 is to detect whether a given sound sample belongs to a warning bell at level crossings or not (multi-class classification).
 
