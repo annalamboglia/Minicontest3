@@ -1,16 +1,16 @@
-Level Crossings are among the most critical railway assets, concerning both the risk of accidents and their maintainability, due to intersections with promiscuous traffic and difficulties in remotely monitoring their health status. Failures can be originated from several factors, including malfunctions in the bar mechanisms and warning devices, such as light signals and bells.
+# Minicontest1
 
-![Michigan Railroad crossing](https://upload.wikimedia.org/wikipedia/commons/0/07/Trout_Lake%2C_Michigan_Railroad_crossing.JPG)
+The Prostate Imaging Reporting and Data System (PI-RADS) is a structured reporting scheme for multiparametric prostate magnetic resonance imaging, used to improve early diagnosis and treatment of prostate cancer. The PI-RADS classification is based on a scale of values from 1 to 5, assigned according to the probability that a finding is a malignant tumor (prostate carcinoma). PI-RADS score 3 is recognized as the equivocal likelihood of clinically significant prostate cancer, making its diagnosis very challenging. Prostate biopsy, consisting in the removal of small sections of suspicious tissue, is the gold standard to detect cancers. However, it is an invasive procedure with risks, such as infections.
 
-Among all, the detection of the level crossing alarm bell is an important task, as it represents one of the most effective notifications for vehicles' drivers of an upcoming train on the track. Unfortunately, its detection is not straightforward, due to i) the presence of other similar sounds (e.g. alarms), ii) the traffic noise and iii) the great variability of alarm bell sounds. The aim of the third Machine Learning Mini-Contest (MC3) for the academic year 2021/2022 is to detect whether a given sound sample belongs to a warning bell at level crossings or not (multi-class classification).
+![PI-RADS](https://user-images.githubusercontent.com/62296543/142722753-45f449ce-fd74-4fa2-b460-bb8281db3219.png)
+
+
+The aim of the first Machine Learning Mini-Contest (MC1) for the academic year 2021/2022 is to detect prostate cancer in patients with PI-RADS score 3 lesions considering clinical-radiological characteristics and avoiding prostate biopsy. More in detail, the problem to solve can be considered as a binary classification task regarding the distinction between patients with and without prostate cancer.
 
 Contest Rules
-Each student has to predict (multi-class categorical classification) the source of the sound provided as a sample, realising one or more prediction models using data analysis and Machine Learning techniques. The performance measure to maximise is Accuracy. It is mandatory for the student who will achieve the best performance on the test dataset, to discuss the process steps followed in order to reach the development of the final model. The winning student presentation will be held during the lesson on December the 17th.
-If the presentation and the proposed solution will be judged positively, the author will be relieved from discussing one of the contest solutions during the final exam.
+Each student has to predict if the patient has prostate cancer, realising one or more prediction model using data analysis and Machine Learning techniques. The performance measure to maximise is Accuracy. It is mandatory for the student who will achieve the best performance on the test dataset, to discuss the process steps followed in order to reach the development of the final model. The winning student presentation will be held during the lesson of November the 19th.
+If the presentation and the proposed solution will be judged positively, the author will be relieved from the final contest.
 Each participant is free to use external tools (i.e. Weka, Knime, MatLab, etc.).
 
-Acknoledgments
-This task is part of the H2020 Shift2Rail project "RAILS: Roadmaps for A.I. Integration in the Rail Sector". We thanks prof. Valeria Vittorini and prof. Francesco Flammini for providing the data.
 
-
-https://www.kaggle.com/c/unina-machine-learning-2122-minicontest-n3/overview/description
+https://www.kaggle.com/c/unina-machine-learning-2122-minicontest-n1/overview
